@@ -1,11 +1,9 @@
 module main
 
-import (
-	rand
-	net.http
-	json
-	os
-)
+import rand
+import net.http
+import json
+import os
 
 const (
 	//CLIENT_ID     = ''

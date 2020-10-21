@@ -1,9 +1,7 @@
 module main
 
-import (
-	vweb
-	pg
-)
+import vweb
+import pg
 
 const (
 	port = 8092
